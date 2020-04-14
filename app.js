@@ -1,5 +1,6 @@
 console.log('change  loggg')
-console.log()
+console.log('hoge')
+
 
 
 
